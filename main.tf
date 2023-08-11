@@ -19,7 +19,7 @@ provider "aws" {
   region = var.region
   default_tags {
     tags = {
-      Project = "T101-Study" #Tom
+      Project = "T101-Study" #Tom and Jerry
     }
   }
 }
